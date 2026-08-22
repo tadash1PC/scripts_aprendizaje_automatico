@@ -32,9 +32,9 @@ Python_MNIST.py — Red neuronal convolucional (CNN) en PyTorch para reconocimie
 Tarea06.py, practica 1.py, practica 2.py, practica 4.py — Ejercicios y prácticas complementarias del curso.
 
 **TECNOLOGÍAS UTILIZADAS**
-_Lenguaje_: Python
-_Librerías_: pandas, NumPy, scikit-learn, PyTorch, Prophet, mlxtend (Apriori)
-_Herramientas_: Jupyter Notebook, VS Code, Git/GitHub
+- _Lenguaje_: Python
+- _Librerías_: pandas, NumPy, scikit-learn, PyTorch, Prophet, mlxtend (Apriori)
+- _Herramientas_: Jupyter Notebook, VS Code, Git/GitHub
 
 **HABILIDADES DEMOSTRADAS**
 - Preparación y limpieza de datos (imputación, splits estratificados)
