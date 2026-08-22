@@ -1,5 +1,5 @@
 # scripts_aprendizaje_automatico
-Repositorio con los notebooks vistos en la clase de Aprendizaje Automático para la Gestión de datos Masivos, durante la especialidad de Ciencias de Datos en la Universidad Autónoma de Guadalajara, bajo la orientación del Dr. Paulo López Meyer. Este repositorio cuenta con numerosos scripts, que van desde la limpieza y preparación de datos, hasta entrenamiento, optimización y evaluación de modelos.
+Repositorio con los notebooks vistos en la clase de Aprendizaje Automático para la Gestión de datos Masivos, durante la especialidad de Ciencias de Datos en la **Universidad Autónoma de Guadalajara**, bajo la orientación del **_Dr. Paulo López Meyer_**. Este repositorio cuenta con numerosos scripts, que van desde la limpieza y preparación de datos, hasta entrenamiento, optimización y evaluación de modelos.
 
 - **Sobre mí**
 
