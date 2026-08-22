@@ -6,29 +6,35 @@ Repositorio con los notebooks vistos en la clase de Aprendizaje Automático para
 Soy Ingeniero en Mecatrónica (UAG) actualmente terminando la Especialidad en Ciencias de Datos. Este repositorio documenta mi proceso de aprendizaje aplicando algoritmos de machine learning a datasets reales, con énfasis en optimización de modelos y comunicación clara de resultados.
 
 - **Contenido del repositorio**
-Clasificación y árboles de decisión
+**_Clasificación y árboles de decisión_**
 Decision_Tree.ipynb / Decision_Tree_Optimizado.ipynb — Clasificador de árbol de decisión, optimizado con GridSearchCV, validación con splits estratificados e imputación de valores nulos. Mejora de exactitud de ~65-70% (baseline) a ~74.5%.
 classification.ipynb / classification_parkinsons.ipynb — Modelos de clasificación aplicados a datasets reales, incluyendo detección de Parkinson a partir de características de voz.
-Clustering (aprendizaje no supervisado)
+
+**_Clustering (aprendizaje no supervisado)_**
 cluster_kmeans.py / clustering_kmeans.ipynb — Segmentación con K-Means.
 cluster_hierarchical.py / clustering_hierarchical.ipynb — Clustering jerárquico y dendrogramas.
 cluster_dbscan.py / clustering_dbscan.ipynb — Detección de clusters basada en densidad con DBSCAN.
-Reglas de asociación
+
+**_Reglas de asociación_**
 02-association-rule-mining-on-real-data.ipynb — Market Basket Analysis con el algoritmo Apriori sobre un dataset real de transacciones (BreadBasket), generación e interpretación de reglas de asociación.
-Series de tiempo
+
+**_Series de tiempo_**
 AirPassengers_Prophet.ipynb / time_series.ipynb — Modelado y pronóstico de series temporales con Prophet sobre el dataset clásico AirPassengers.
-Procesamiento de Lenguaje Natural (NLP)
+
+**_Procesamiento de Lenguaje Natural (NLP)_**
 sentiment_analysis.ipynb — Análisis de sentimiento sobre texto.
 tf_idf.ipynb — Vectorización de texto con TF-IDF como paso previo a modelos de NLP.
-Deep Learning
+
+**_Deep Learning_**
 Python_MNIST.py — Red neuronal convolucional (CNN) en PyTorch para reconocimiento de dígitos escritos a mano (MNIST).
-Otros
+
+**_Otros_**
 Tarea06.py, practica 1.py, practica 2.py, practica 4.py — Ejercicios y prácticas complementarias del curso.
 
 - **Tecnologías utilizadas**
-Lenguaje: Python
-Librerías: pandas, NumPy, scikit-learn, PyTorch, Prophet, mlxtend (Apriori)
-Herramientas: Jupyter Notebook, VS Code, Git/GitHub
+_Lenguaje_: Python
+_Librerías_: pandas, NumPy, scikit-learn, PyTorch, Prophet, mlxtend (Apriori)
+_Herramientas_: Jupyter Notebook, VS Code, Git/GitHub
 
 - **Habilidades demostradas**
 Preparación y limpieza de datos (imputación, splits estratificados)
